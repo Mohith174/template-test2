@@ -1,0 +1,9 @@
+html {
+    box-sizing: border-box;
+    /* prevents padding from addings xtra length and width and prevents horizontal scrool bar*/
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+}
